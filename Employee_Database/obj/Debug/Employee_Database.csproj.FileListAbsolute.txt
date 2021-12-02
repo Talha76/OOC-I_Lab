@@ -1,0 +1,11 @@
+E:\Visual Studio\Employee_Database\bin\Debug\Employee_Database.exe.config
+E:\Visual Studio\Employee_Database\bin\Debug\Employee_Database.exe
+E:\Visual Studio\Employee_Database\bin\Debug\Employee_Database.pdb
+E:\Visual Studio\Employee_Database\obj\Debug\Employee_Database.csproj.AssemblyReference.cache
+E:\Visual Studio\Employee_Database\obj\Debug\Employee_Database.csproj.SuggestedBindingRedirects.cache
+E:\Visual Studio\Employee_Database\obj\Debug\Employee_Database.Form1.resources
+E:\Visual Studio\Employee_Database\obj\Debug\Employee_Database.Properties.Resources.resources
+E:\Visual Studio\Employee_Database\obj\Debug\Employee_Database.csproj.GenerateResource.cache
+E:\Visual Studio\Employee_Database\obj\Debug\Employee_Database.csproj.CoreCompileInputs.cache
+E:\Visual Studio\Employee_Database\obj\Debug\Employee_Database.exe
+E:\Visual Studio\Employee_Database\obj\Debug\Employee_Database.pdb
