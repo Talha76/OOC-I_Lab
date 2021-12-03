@@ -49,7 +49,7 @@ namespace Employee_Database
             dept = Student_dept_textbox.Text;
             semester = Student_semester_textbox.Text;
 
-            Student temporary = new Student(id, name, dept, semester)
+            Student temporary = new Student(id, name, dept, semester);
             students.Add(temporary);
 
             if (this.find_student(temporary) == false)
