@@ -1,0 +1,11 @@
+E:\OOC-I_Lab\WindowsFormsApp1\obj\Debug\Hotel_Management_System.csproj.AssemblyReference.cache
+E:\OOC-I_Lab\WindowsFormsApp1\obj\Debug\Hotel_Management_System.csproj.SuggestedBindingRedirects.cache
+E:\OOC-I_Lab\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\OOC-I_Lab\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\OOC-I_Lab\WindowsFormsApp1\obj\Debug\Hotel_Management_System.csproj.GenerateResource.cache
+E:\OOC-I_Lab\WindowsFormsApp1\obj\Debug\Hotel_Management_System.csproj.CoreCompileInputs.cache
+E:\OOC-I_Lab\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\OOC-I_Lab\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\OOC-I_Lab\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\OOC-I_Lab\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\OOC-I_Lab\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
