@@ -114,7 +114,21 @@ namespace WindowsFormsApp1
                 }
             }
 
-            //foreach(doubleroom)
+            foreach(DoubleRoom i in double_roomlist)
+            {
+                if(i.get_name() == cb_package.Text)
+                {
+                    if (i.get_count() - Convert.ToInt32(tb_rent_quantity.Text) < 0)
+                    {
+                        MessageBox.Show(i.get_count() + " rooms are available.");
+                        return;
+                    }
+                    i.set_count(i.get_count() - Convert.ToInt32(tb_rent_quantity.Text));
+                    string show = "Successfully rented " + tb_rent_quantity.Text + " " + i.get_name() + " rooms.";
+                    MessageBox.Show(show);
+                    return;
+                }
+            }
         }
         private void button4_Click(object sender, EventArgs e)
         {
