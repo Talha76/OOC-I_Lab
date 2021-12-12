@@ -272,7 +272,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(876, 635);
+            this.ClientSize = new System.Drawing.Size(876, 565);
             this.Controls.Add(this.Student_semester_textbox);
             this.Controls.Add(this.label9);
             this.Controls.Add(this.Teacher_listbox);

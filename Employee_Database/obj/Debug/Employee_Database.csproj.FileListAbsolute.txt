@@ -9,3 +9,14 @@ E:\Visual Studio\Employee_Database\obj\Debug\Employee_Database.csproj.GenerateRe
 E:\Visual Studio\Employee_Database\obj\Debug\Employee_Database.csproj.CoreCompileInputs.cache
 E:\Visual Studio\Employee_Database\obj\Debug\Employee_Database.exe
 E:\Visual Studio\Employee_Database\obj\Debug\Employee_Database.pdb
+E:\SWE-4202-OOC-I_Lab\Employee_Database\bin\Debug\Employee_Database.exe.config
+E:\SWE-4202-OOC-I_Lab\Employee_Database\bin\Debug\Employee_Database.exe
+E:\SWE-4202-OOC-I_Lab\Employee_Database\bin\Debug\Employee_Database.pdb
+E:\SWE-4202-OOC-I_Lab\Employee_Database\obj\Debug\Employee_Database.csproj.AssemblyReference.cache
+E:\SWE-4202-OOC-I_Lab\Employee_Database\obj\Debug\Employee_Database.csproj.SuggestedBindingRedirects.cache
+E:\SWE-4202-OOC-I_Lab\Employee_Database\obj\Debug\Employee_Database.Form1.resources
+E:\SWE-4202-OOC-I_Lab\Employee_Database\obj\Debug\Employee_Database.Properties.Resources.resources
+E:\SWE-4202-OOC-I_Lab\Employee_Database\obj\Debug\Employee_Database.csproj.GenerateResource.cache
+E:\SWE-4202-OOC-I_Lab\Employee_Database\obj\Debug\Employee_Database.csproj.CoreCompileInputs.cache
+E:\SWE-4202-OOC-I_Lab\Employee_Database\obj\Debug\Employee_Database.exe
+E:\SWE-4202-OOC-I_Lab\Employee_Database\obj\Debug\Employee_Database.pdb
