@@ -9,3 +9,14 @@ E:\Visual Studio\200042124_Lab01_Assignment\obj\Debug\200042124_Lab01_Assignment
 E:\Visual Studio\200042124_Lab01_Assignment\obj\Debug\200042124_Lab01_Assignment.csproj.CoreCompileInputs.cache
 E:\Visual Studio\200042124_Lab01_Assignment\obj\Debug\200042124_Lab01_Assignment.exe
 E:\Visual Studio\200042124_Lab01_Assignment\obj\Debug\200042124_Lab01_Assignment.pdb
+E:\SWE-4202-OOC-I_Lab\200042124_Lab01_Assignment\bin\Debug\200042124_Lab01_Assignment.exe.config
+E:\SWE-4202-OOC-I_Lab\200042124_Lab01_Assignment\bin\Debug\200042124_Lab01_Assignment.exe
+E:\SWE-4202-OOC-I_Lab\200042124_Lab01_Assignment\bin\Debug\200042124_Lab01_Assignment.pdb
+E:\SWE-4202-OOC-I_Lab\200042124_Lab01_Assignment\obj\Debug\200042124_Lab01_Assignment.csproj.AssemblyReference.cache
+E:\SWE-4202-OOC-I_Lab\200042124_Lab01_Assignment\obj\Debug\200042124_Lab01_Assignment.csproj.SuggestedBindingRedirects.cache
+E:\SWE-4202-OOC-I_Lab\200042124_Lab01_Assignment\obj\Debug\_200042124_Lab01_Assignment.Form1.resources
+E:\SWE-4202-OOC-I_Lab\200042124_Lab01_Assignment\obj\Debug\_200042124_Lab01_Assignment.Properties.Resources.resources
+E:\SWE-4202-OOC-I_Lab\200042124_Lab01_Assignment\obj\Debug\200042124_Lab01_Assignment.csproj.GenerateResource.cache
+E:\SWE-4202-OOC-I_Lab\200042124_Lab01_Assignment\obj\Debug\200042124_Lab01_Assignment.csproj.CoreCompileInputs.cache
+E:\SWE-4202-OOC-I_Lab\200042124_Lab01_Assignment\obj\Debug\200042124_Lab01_Assignment.exe
+E:\SWE-4202-OOC-I_Lab\200042124_Lab01_Assignment\obj\Debug\200042124_Lab01_Assignment.pdb
