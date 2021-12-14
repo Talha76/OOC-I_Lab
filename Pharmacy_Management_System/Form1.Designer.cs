@@ -35,7 +35,6 @@
             this.label5 = new System.Windows.Forms.Label();
             this.tb_mfg_name = new System.Windows.Forms.TextBox();
             this.tb_mfg_company = new System.Windows.Forms.TextBox();
-            this.tb_exp_date = new System.Windows.Forms.TextBox();
             this.label6 = new System.Windows.Forms.Label();
             this.tb_mfg_qty = new System.Windows.Forms.TextBox();
             this.label7 = new System.Windows.Forms.Label();
@@ -71,7 +70,8 @@
             this.label19 = new System.Windows.Forms.Label();
             this.cb_sell_name = new System.Windows.Forms.ComboBox();
             this.tb_history_name = new System.Windows.Forms.ComboBox();
-            this.tb_mfg_date = new System.Windows.Forms.TextBox();
+            this.tb_mfg_date = new System.Windows.Forms.DateTimePicker();
+            this.tb_exp_date = new System.Windows.Forms.DateTimePicker();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -134,13 +134,6 @@
             this.tb_mfg_company.Name = "tb_mfg_company";
             this.tb_mfg_company.Size = new System.Drawing.Size(233, 26);
             this.tb_mfg_company.TabIndex = 6;
-            // 
-            // tb_exp_date
-            // 
-            this.tb_exp_date.Location = new System.Drawing.Point(205, 174);
-            this.tb_exp_date.Name = "tb_exp_date";
-            this.tb_exp_date.Size = new System.Drawing.Size(233, 26);
-            this.tb_exp_date.TabIndex = 8;
             // 
             // label6
             // 
@@ -459,13 +452,22 @@
             this.tb_mfg_date.Location = new System.Drawing.Point(205, 138);
             this.tb_mfg_date.Name = "tb_mfg_date";
             this.tb_mfg_date.Size = new System.Drawing.Size(233, 26);
-            this.tb_mfg_date.TabIndex = 7;
+            this.tb_mfg_date.TabIndex = 46;
+            // 
+            // tb_exp_date
+            // 
+            this.tb_exp_date.Location = new System.Drawing.Point(205, 174);
+            this.tb_exp_date.Name = "tb_exp_date";
+            this.tb_exp_date.Size = new System.Drawing.Size(233, 26);
+            this.tb_exp_date.TabIndex = 47;
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(931, 608);
+            this.Controls.Add(this.tb_exp_date);
+            this.Controls.Add(this.tb_mfg_date);
             this.Controls.Add(this.tb_history_name);
             this.Controls.Add(this.cb_sell_name);
             this.Controls.Add(this.tb_history_price);
@@ -501,8 +503,6 @@
             this.Controls.Add(this.label7);
             this.Controls.Add(this.tb_mfg_qty);
             this.Controls.Add(this.label6);
-            this.Controls.Add(this.tb_exp_date);
-            this.Controls.Add(this.tb_mfg_date);
             this.Controls.Add(this.tb_mfg_company);
             this.Controls.Add(this.tb_mfg_name);
             this.Controls.Add(this.label5);
@@ -510,6 +510,7 @@
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.Name = "Form1";
             this.Text = "Form1";
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
@@ -527,7 +528,6 @@
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.TextBox tb_mfg_name;
         private System.Windows.Forms.TextBox tb_mfg_company;
-        private System.Windows.Forms.TextBox tb_exp_date;
         private System.Windows.Forms.Label label6;
         private System.Windows.Forms.TextBox tb_mfg_qty;
         private System.Windows.Forms.Label label7;
@@ -563,7 +563,8 @@
         private System.Windows.Forms.Label label19;
         private System.Windows.Forms.ComboBox cb_sell_name;
         private System.Windows.Forms.ComboBox tb_history_name;
-        private System.Windows.Forms.TextBox tb_mfg_date;
+        private System.Windows.Forms.DateTimePicker tb_mfg_date;
+        private System.Windows.Forms.DateTimePicker tb_exp_date;
     }
 }
 

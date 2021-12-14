@@ -57,8 +57,8 @@ namespace Pharmacy_Management_System
         {
             tb_mfg_name.Clear();
             tb_mfg_company.Clear();
-            tb_mfg_date.Clear();
-            tb_exp_date.Clear();
+            tb_mfg_date.ResetText();
+            tb_exp_date.ResetText();
             tb_price.Clear();
             tb_mfg_qty.Clear();
 
