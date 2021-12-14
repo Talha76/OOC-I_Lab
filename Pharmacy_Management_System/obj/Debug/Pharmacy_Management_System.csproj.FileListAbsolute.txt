@@ -1,0 +1,11 @@
+E:\SWE-4202-OOC-I_Lab\Pharmacy_Management_System\bin\Debug\Pharmacy_Management_System.exe.config
+E:\SWE-4202-OOC-I_Lab\Pharmacy_Management_System\bin\Debug\Pharmacy_Management_System.exe
+E:\SWE-4202-OOC-I_Lab\Pharmacy_Management_System\bin\Debug\Pharmacy_Management_System.pdb
+E:\SWE-4202-OOC-I_Lab\Pharmacy_Management_System\obj\Debug\Pharmacy_Management_System.csproj.AssemblyReference.cache
+E:\SWE-4202-OOC-I_Lab\Pharmacy_Management_System\obj\Debug\Pharmacy_Management_System.csproj.SuggestedBindingRedirects.cache
+E:\SWE-4202-OOC-I_Lab\Pharmacy_Management_System\obj\Debug\Pharmacy_Management_System.Form1.resources
+E:\SWE-4202-OOC-I_Lab\Pharmacy_Management_System\obj\Debug\Pharmacy_Management_System.Properties.Resources.resources
+E:\SWE-4202-OOC-I_Lab\Pharmacy_Management_System\obj\Debug\Pharmacy_Management_System.csproj.GenerateResource.cache
+E:\SWE-4202-OOC-I_Lab\Pharmacy_Management_System\obj\Debug\Pharmacy_Management_System.csproj.CoreCompileInputs.cache
+E:\SWE-4202-OOC-I_Lab\Pharmacy_Management_System\obj\Debug\Pharmacy_Management_System.exe
+E:\SWE-4202-OOC-I_Lab\Pharmacy_Management_System\obj\Debug\Pharmacy_Management_System.pdb
