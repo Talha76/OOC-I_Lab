@@ -1,0 +1,11 @@
+E:\SWE-4202-OOC-I_Lab\HotelManagementSystem\bin\Debug\HotelManagementSystem.exe.config
+E:\SWE-4202-OOC-I_Lab\HotelManagementSystem\bin\Debug\HotelManagementSystem.exe
+E:\SWE-4202-OOC-I_Lab\HotelManagementSystem\bin\Debug\HotelManagementSystem.pdb
+E:\SWE-4202-OOC-I_Lab\HotelManagementSystem\obj\Debug\HotelManagementSystem.csproj.AssemblyReference.cache
+E:\SWE-4202-OOC-I_Lab\HotelManagementSystem\obj\Debug\HotelManagementSystem.csproj.SuggestedBindingRedirects.cache
+E:\SWE-4202-OOC-I_Lab\HotelManagementSystem\obj\Debug\HotelManagementSystem.Form1.resources
+E:\SWE-4202-OOC-I_Lab\HotelManagementSystem\obj\Debug\HotelManagementSystem.Properties.Resources.resources
+E:\SWE-4202-OOC-I_Lab\HotelManagementSystem\obj\Debug\HotelManagementSystem.csproj.GenerateResource.cache
+E:\SWE-4202-OOC-I_Lab\HotelManagementSystem\obj\Debug\HotelManagementSystem.csproj.CoreCompileInputs.cache
+E:\SWE-4202-OOC-I_Lab\HotelManagementSystem\obj\Debug\HotelManagementSystem.exe
+E:\SWE-4202-OOC-I_Lab\HotelManagementSystem\obj\Debug\HotelManagementSystem.pdb
