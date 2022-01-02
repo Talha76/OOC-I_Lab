@@ -1,0 +1,11 @@
+E:\SWE-4202-OOC-I_Lab\Lab07_LMS\obj\Debug\Lab07_LMS.csproj.AssemblyReference.cache
+E:\SWE-4202-OOC-I_Lab\Lab07_LMS\obj\Debug\Lab07_LMS.csproj.SuggestedBindingRedirects.cache
+E:\SWE-4202-OOC-I_Lab\Lab07_LMS\obj\Debug\Lab07_LMS.Form1.resources
+E:\SWE-4202-OOC-I_Lab\Lab07_LMS\obj\Debug\Lab07_LMS.Properties.Resources.resources
+E:\SWE-4202-OOC-I_Lab\Lab07_LMS\obj\Debug\Lab07_LMS.csproj.GenerateResource.cache
+E:\SWE-4202-OOC-I_Lab\Lab07_LMS\obj\Debug\Lab07_LMS.csproj.CoreCompileInputs.cache
+E:\SWE-4202-OOC-I_Lab\Lab07_LMS\bin\Debug\Lab07_LMS.exe.config
+E:\SWE-4202-OOC-I_Lab\Lab07_LMS\bin\Debug\Lab07_LMS.exe
+E:\SWE-4202-OOC-I_Lab\Lab07_LMS\bin\Debug\Lab07_LMS.pdb
+E:\SWE-4202-OOC-I_Lab\Lab07_LMS\obj\Debug\Lab07_LMS.exe
+E:\SWE-4202-OOC-I_Lab\Lab07_LMS\obj\Debug\Lab07_LMS.pdb
