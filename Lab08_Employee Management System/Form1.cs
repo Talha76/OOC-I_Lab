@@ -68,7 +68,7 @@ namespace Lab08_Employee_Management_System
                     EMS.Add(temp);
                 }
             }
-            MessageBox.Show("Employee Added with ID " + (EMS.getLastID() - 1).ToString());
+            MessageBox.Show("Employee Added with ID " + (EMS.getLastID() - 1));
         }
 
         private void showInfo(object sender, EventArgs e)
@@ -105,6 +105,43 @@ namespace Lab08_Employee_Management_System
             tbAddContact.Clear();
             cbAddDesignation.ResetText();
             numAddLeave.Value = numAddSalary.Value = 0;
+        }
+
+        private void clearViewInfo(object sender, EventArgs e)
+        {
+            tbViewID.Clear();
+            tbViewContact.Clear();
+            tbViewDesignation.Clear();
+            tbViewJoin.Clear();
+            tbViewName.Clear();
+            numViewLeave.ResetText();
+            numViewSalary.ResetText();
+        }
+
+        private void clearUpdInfo(object sender, EventArgs e)
+        {
+            tbUpdContact.Clear();
+            tbUpdID.Clear();
+            tbUpdName.Clear();
+            cbUpdDesignation.ResetText();
+            cbUpdDesignation.ResetText();
+            numUpdLeaves.Value = numUpdSalary.Value = 0;
+        }
+
+        private void updateInfo(object sender, EventArgs e)
+        {
+            try
+            {
+                Employee dummy = EMS.find(int.Parse(tbUpdID.Text));
+                dummy.setName(tbUpdName.Text);
+                dummy.setContact(tbUpdContact.Text);
+                dummy.setLeaves((int)numUpdLeaves.Value);
+                dummy.setSalary((int)numUpdSalary.Value);
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
         }
     }
 }

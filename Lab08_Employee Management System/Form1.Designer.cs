@@ -389,6 +389,7 @@
             this.button3.TabIndex = 41;
             this.button3.Text = "Update";
             this.button3.UseVisualStyleBackColor = true;
+            this.button3.Click += new System.EventHandler(this.updateInfo);
             // 
             // numUpdLeaves
             // 
