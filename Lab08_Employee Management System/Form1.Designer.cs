@@ -59,25 +59,28 @@
             this.label15 = new System.Windows.Forms.Label();
             this.tbViewJoin = new System.Windows.Forms.TextBox();
             this.label16 = new System.Windows.Forms.Label();
-            this.textBox2 = new System.Windows.Forms.TextBox();
             this.label18 = new System.Windows.Forms.Label();
             this.button3 = new System.Windows.Forms.Button();
-            this.numericUpDown1 = new System.Windows.Forms.NumericUpDown();
+            this.numUpdLeaves = new System.Windows.Forms.NumericUpDown();
             this.label19 = new System.Windows.Forms.Label();
-            this.numericUpDown2 = new System.Windows.Forms.NumericUpDown();
+            this.numUpdSalary = new System.Windows.Forms.NumericUpDown();
             this.label20 = new System.Windows.Forms.Label();
-            this.textBox3 = new System.Windows.Forms.TextBox();
+            this.tbUpdContact = new System.Windows.Forms.TextBox();
             this.label21 = new System.Windows.Forms.Label();
-            this.textBox4 = new System.Windows.Forms.TextBox();
-            this.textBox5 = new System.Windows.Forms.TextBox();
+            this.tbUpdID = new System.Windows.Forms.TextBox();
+            this.tbUpdName = new System.Windows.Forms.TextBox();
             this.label22 = new System.Windows.Forms.Label();
             this.label23 = new System.Windows.Forms.Label();
+            this.button4 = new System.Windows.Forms.Button();
+            this.button5 = new System.Windows.Forms.Button();
+            this.button6 = new System.Windows.Forms.Button();
+            this.cbUpdDesignation = new System.Windows.Forms.ComboBox();
             ((System.ComponentModel.ISupportInitialize)(this.numAddSalary)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.numAddLeave)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.numViewSalary)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.numViewLeave)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown1)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown2)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.numUpdLeaves)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.numUpdSalary)).BeginInit();
             this.SuspendLayout();
             // 
             // label1
@@ -203,7 +206,7 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(135, 258);
+            this.button1.Location = new System.Drawing.Point(80, 263);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(75, 32);
             this.button1.TabIndex = 13;
@@ -317,7 +320,7 @@
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(520, 288);
+            this.button2.Location = new System.Drawing.Point(482, 288);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(75, 32);
             this.button2.TabIndex = 25;
@@ -369,13 +372,6 @@
             this.label16.TabIndex = 30;
             this.label16.Text = "Update Information";
             // 
-            // textBox2
-            // 
-            this.textBox2.Location = new System.Drawing.Point(319, 474);
-            this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(196, 26);
-            this.textBox2.TabIndex = 43;
-            // 
             // label18
             // 
             this.label18.AutoSize = true;
@@ -387,45 +383,45 @@
             // 
             // button3
             // 
-            this.button3.Location = new System.Drawing.Point(318, 587);
+            this.button3.Location = new System.Drawing.Point(264, 587);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(75, 32);
             this.button3.TabIndex = 41;
             this.button3.Text = "Update";
             this.button3.UseVisualStyleBackColor = true;
             // 
-            // numericUpDown1
+            // numUpdLeaves
             // 
-            this.numericUpDown1.Location = new System.Drawing.Point(319, 542);
-            this.numericUpDown1.Maximum = new decimal(new int[] {
+            this.numUpdLeaves.Location = new System.Drawing.Point(319, 542);
+            this.numUpdLeaves.Maximum = new decimal(new int[] {
             999999999,
             0,
             0,
             0});
-            this.numericUpDown1.Name = "numericUpDown1";
-            this.numericUpDown1.Size = new System.Drawing.Size(195, 26);
-            this.numericUpDown1.TabIndex = 40;
+            this.numUpdLeaves.Name = "numUpdLeaves";
+            this.numUpdLeaves.Size = new System.Drawing.Size(195, 26);
+            this.numUpdLeaves.TabIndex = 40;
             // 
             // label19
             // 
             this.label19.AutoSize = true;
-            this.label19.Location = new System.Drawing.Point(220, 544);
+            this.label19.Location = new System.Drawing.Point(253, 542);
             this.label19.Name = "label19";
-            this.label19.Size = new System.Drawing.Size(93, 20);
+            this.label19.Size = new System.Drawing.Size(60, 20);
             this.label19.TabIndex = 39;
-            this.label19.Text = "Add Leaves";
+            this.label19.Text = "Leaves";
             // 
-            // numericUpDown2
+            // numUpdSalary
             // 
-            this.numericUpDown2.Location = new System.Drawing.Point(319, 508);
-            this.numericUpDown2.Maximum = new decimal(new int[] {
+            this.numUpdSalary.Location = new System.Drawing.Point(319, 508);
+            this.numUpdSalary.Maximum = new decimal(new int[] {
             -727379969,
             232,
             0,
             0});
-            this.numericUpDown2.Name = "numericUpDown2";
-            this.numericUpDown2.Size = new System.Drawing.Size(195, 26);
-            this.numericUpDown2.TabIndex = 38;
+            this.numUpdSalary.Name = "numUpdSalary";
+            this.numUpdSalary.Size = new System.Drawing.Size(195, 26);
+            this.numUpdSalary.TabIndex = 38;
             // 
             // label20
             // 
@@ -436,12 +432,12 @@
             this.label20.TabIndex = 37;
             this.label20.Text = "Salary";
             // 
-            // textBox3
+            // tbUpdContact
             // 
-            this.textBox3.Location = new System.Drawing.Point(319, 442);
-            this.textBox3.Name = "textBox3";
-            this.textBox3.Size = new System.Drawing.Size(196, 26);
-            this.textBox3.TabIndex = 36;
+            this.tbUpdContact.Location = new System.Drawing.Point(319, 442);
+            this.tbUpdContact.Name = "tbUpdContact";
+            this.tbUpdContact.Size = new System.Drawing.Size(196, 26);
+            this.tbUpdContact.TabIndex = 36;
             // 
             // label21
             // 
@@ -452,19 +448,19 @@
             this.label21.TabIndex = 35;
             this.label21.Text = "Contact";
             // 
-            // textBox4
+            // tbUpdID
             // 
-            this.textBox4.Location = new System.Drawing.Point(318, 375);
-            this.textBox4.Name = "textBox4";
-            this.textBox4.Size = new System.Drawing.Size(196, 26);
-            this.textBox4.TabIndex = 34;
+            this.tbUpdID.Location = new System.Drawing.Point(318, 375);
+            this.tbUpdID.Name = "tbUpdID";
+            this.tbUpdID.Size = new System.Drawing.Size(196, 26);
+            this.tbUpdID.TabIndex = 34;
             // 
-            // textBox5
+            // tbUpdName
             // 
-            this.textBox5.Location = new System.Drawing.Point(318, 407);
-            this.textBox5.Name = "textBox5";
-            this.textBox5.Size = new System.Drawing.Size(196, 26);
-            this.textBox5.TabIndex = 33;
+            this.tbUpdName.Location = new System.Drawing.Point(318, 407);
+            this.tbUpdName.Name = "tbUpdName";
+            this.tbUpdName.Size = new System.Drawing.Size(196, 26);
+            this.tbUpdName.TabIndex = 33;
             // 
             // label22
             // 
@@ -484,22 +480,67 @@
             this.label23.TabIndex = 31;
             this.label23.Text = "Employee ID";
             // 
+            // button4
+            // 
+            this.button4.Location = new System.Drawing.Point(192, 263);
+            this.button4.Name = "button4";
+            this.button4.Size = new System.Drawing.Size(75, 32);
+            this.button4.TabIndex = 44;
+            this.button4.Text = "Clear";
+            this.button4.UseVisualStyleBackColor = true;
+            this.button4.Click += new System.EventHandler(this.clearAddEmployee);
+            // 
+            // button5
+            // 
+            this.button5.Location = new System.Drawing.Point(604, 288);
+            this.button5.Name = "button5";
+            this.button5.Size = new System.Drawing.Size(75, 32);
+            this.button5.TabIndex = 45;
+            this.button5.Text = "Clear";
+            this.button5.UseVisualStyleBackColor = true;
+            this.button5.Click += new System.EventHandler(this.clearViewInfo);
+            // 
+            // button6
+            // 
+            this.button6.Location = new System.Drawing.Point(374, 587);
+            this.button6.Name = "button6";
+            this.button6.Size = new System.Drawing.Size(75, 32);
+            this.button6.TabIndex = 46;
+            this.button6.Text = "Clear";
+            this.button6.UseVisualStyleBackColor = true;
+            this.button6.Click += new System.EventHandler(this.clearUpdInfo);
+            // 
+            // cbUpdDesignation
+            // 
+            this.cbUpdDesignation.FormattingEnabled = true;
+            this.cbUpdDesignation.Items.AddRange(new object[] {
+            "Manager",
+            "Sales Person",
+            "Type Writer"});
+            this.cbUpdDesignation.Location = new System.Drawing.Point(318, 474);
+            this.cbUpdDesignation.Name = "cbUpdDesignation";
+            this.cbUpdDesignation.Size = new System.Drawing.Size(195, 28);
+            this.cbUpdDesignation.TabIndex = 47;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(769, 647);
-            this.Controls.Add(this.textBox2);
+            this.Controls.Add(this.cbUpdDesignation);
+            this.Controls.Add(this.button6);
+            this.Controls.Add(this.button5);
+            this.Controls.Add(this.button4);
             this.Controls.Add(this.label18);
             this.Controls.Add(this.button3);
-            this.Controls.Add(this.numericUpDown1);
+            this.Controls.Add(this.numUpdLeaves);
             this.Controls.Add(this.label19);
-            this.Controls.Add(this.numericUpDown2);
+            this.Controls.Add(this.numUpdSalary);
             this.Controls.Add(this.label20);
-            this.Controls.Add(this.textBox3);
+            this.Controls.Add(this.tbUpdContact);
             this.Controls.Add(this.label21);
-            this.Controls.Add(this.textBox4);
-            this.Controls.Add(this.textBox5);
+            this.Controls.Add(this.tbUpdID);
+            this.Controls.Add(this.tbUpdName);
             this.Controls.Add(this.label22);
             this.Controls.Add(this.label23);
             this.Controls.Add(this.label16);
@@ -541,8 +582,8 @@
             ((System.ComponentModel.ISupportInitialize)(this.numAddLeave)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.numViewSalary)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.numViewLeave)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown1)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown2)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.numUpdLeaves)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.numUpdSalary)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -581,19 +622,22 @@
         private System.Windows.Forms.Label label15;
         private System.Windows.Forms.TextBox tbViewJoin;
         private System.Windows.Forms.Label label16;
-        private System.Windows.Forms.TextBox textBox2;
         private System.Windows.Forms.Label label18;
         private System.Windows.Forms.Button button3;
-        private System.Windows.Forms.NumericUpDown numericUpDown1;
+        private System.Windows.Forms.NumericUpDown numUpdLeaves;
         private System.Windows.Forms.Label label19;
-        private System.Windows.Forms.NumericUpDown numericUpDown2;
+        private System.Windows.Forms.NumericUpDown numUpdSalary;
         private System.Windows.Forms.Label label20;
-        private System.Windows.Forms.TextBox textBox3;
+        private System.Windows.Forms.TextBox tbUpdContact;
         private System.Windows.Forms.Label label21;
-        private System.Windows.Forms.TextBox textBox4;
-        private System.Windows.Forms.TextBox textBox5;
+        private System.Windows.Forms.TextBox tbUpdID;
+        private System.Windows.Forms.TextBox tbUpdName;
         private System.Windows.Forms.Label label22;
         private System.Windows.Forms.Label label23;
+        private System.Windows.Forms.Button button4;
+        private System.Windows.Forms.Button button5;
+        private System.Windows.Forms.Button button6;
+        private System.Windows.Forms.ComboBox cbUpdDesignation;
     }
 }
 

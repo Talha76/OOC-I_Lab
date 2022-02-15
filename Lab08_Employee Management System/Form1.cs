@@ -98,5 +98,13 @@ namespace Lab08_Employee_Management_System
                 MessageBox.Show(ex.Message);
             }
         }
+
+        private void clearAddEmployee(object sender, EventArgs e)
+        {
+            tbAddName.Clear();
+            tbAddContact.Clear();
+            cbAddDesignation.ResetText();
+            numAddLeave.Value = numAddSalary.Value = 0;
+        }
     }
 }
