@@ -1,0 +1,11 @@
+E:\SWE-4202-OOC-I_Lab\Lab08 Bank Management System\bin\Debug\Lab08 Bank Management System.exe.config
+E:\SWE-4202-OOC-I_Lab\Lab08 Bank Management System\bin\Debug\Lab08 Bank Management System.exe
+E:\SWE-4202-OOC-I_Lab\Lab08 Bank Management System\bin\Debug\Lab08 Bank Management System.pdb
+E:\SWE-4202-OOC-I_Lab\Lab08 Bank Management System\obj\Debug\Lab08 Bank Management System.csproj.AssemblyReference.cache
+E:\SWE-4202-OOC-I_Lab\Lab08 Bank Management System\obj\Debug\Lab08 Bank Management System.csproj.SuggestedBindingRedirects.cache
+E:\SWE-4202-OOC-I_Lab\Lab08 Bank Management System\obj\Debug\Lab08_Bank_Management_System.Form1.resources
+E:\SWE-4202-OOC-I_Lab\Lab08 Bank Management System\obj\Debug\Lab08_Bank_Management_System.Properties.Resources.resources
+E:\SWE-4202-OOC-I_Lab\Lab08 Bank Management System\obj\Debug\Lab08 Bank Management System.csproj.GenerateResource.cache
+E:\SWE-4202-OOC-I_Lab\Lab08 Bank Management System\obj\Debug\Lab08 Bank Management System.csproj.CoreCompileInputs.cache
+E:\SWE-4202-OOC-I_Lab\Lab08 Bank Management System\obj\Debug\Lab08 Bank Management System.exe
+E:\SWE-4202-OOC-I_Lab\Lab08 Bank Management System\obj\Debug\Lab08 Bank Management System.pdb
