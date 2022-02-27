@@ -20,6 +20,7 @@ namespace Pharmacy_Management_System
         int balance = 0;
         List<Medicine> medicine_list = new List<Medicine>();
 
+        // Save Medicine
         private void save_medicine(object sender, EventArgs e)
         {
             if(tb_mfg_name.Text == "" || tb_mfg_company.Text == "" || tb_mfg_date.Text == "" || tb_exp_date.Text == "" || tb_price.Text == "" || tb_mfg_qty.Text == "")
@@ -53,6 +54,7 @@ namespace Pharmacy_Management_System
             MessageBox.Show("Saved Successfully.");
         }
 
+        // Clear Add Medicine
         private void clear_medicine(object sender, EventArgs e)
         {
             tb_mfg_name.Clear();
@@ -65,6 +67,7 @@ namespace Pharmacy_Management_System
             MessageBox.Show("Cleared Successfully.");
         }
 
+        // Clear Sell Medicine
         private void clear_sell(object sender, EventArgs e)
         {
             cb_sell_name.ResetText();
@@ -73,6 +76,7 @@ namespace Pharmacy_Management_System
             MessageBox.Show("Cleared Successfully.");
         }
 
+        // Sell Medicine
         private void sell(object sender, EventArgs e)
         {
             if(tb_sell_qty.Text == "" || cb_sell_name.Text == "")
@@ -100,6 +104,7 @@ namespace Pharmacy_Management_System
             MessageBox.Show("Medicine is not available.");
         }
 
+        // Clear Add Money
         private void clear_money(object sender, EventArgs e)
         {
             tb_add_money.Clear();
@@ -107,6 +112,7 @@ namespace Pharmacy_Management_System
             MessageBox.Show("Cleared Successfully.");
         }
 
+        // Add Money
         private void add_money(object sender, EventArgs e)
         {
             if(tb_add_money.Text == "")
@@ -123,11 +129,13 @@ namespace Pharmacy_Management_System
             MessageBox.Show("Money added successfully.");
         }
 
+        // Show Balance
         private void show_balance(object sender, EventArgs e)
         {
             MessageBox.Show("Availabe balance is " + balance.ToString() + " Tk.");
         }
 
+        // Clear Medicine History
         private void clear_history(object sender, EventArgs e)
         {
             tb_history_name.ResetText();
@@ -140,6 +148,7 @@ namespace Pharmacy_Management_System
             MessageBox.Show("Cleared Successfully.");
         }
 
+        // Show Medicine History
         private void show_hist(object sender, EventArgs e)
         {
             if(tb_history_name.Text == "")
