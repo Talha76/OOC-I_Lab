@@ -1,0 +1,8 @@
+E:\SWE-4202-OOC-I_Lab\Lab09_Task01\bin\Debug\Lab09_Task01.exe.config
+E:\SWE-4202-OOC-I_Lab\Lab09_Task01\bin\Debug\Lab09_Task01.exe
+E:\SWE-4202-OOC-I_Lab\Lab09_Task01\bin\Debug\Lab09_Task01.pdb
+E:\SWE-4202-OOC-I_Lab\Lab09_Task01\obj\Debug\Lab09_Task01.csproj.AssemblyReference.cache
+E:\SWE-4202-OOC-I_Lab\Lab09_Task01\obj\Debug\Lab09_Task01.csproj.SuggestedBindingRedirects.cache
+E:\SWE-4202-OOC-I_Lab\Lab09_Task01\obj\Debug\Lab09_Task01.csproj.CoreCompileInputs.cache
+E:\SWE-4202-OOC-I_Lab\Lab09_Task01\obj\Debug\Lab09_Task01.exe
+E:\SWE-4202-OOC-I_Lab\Lab09_Task01\obj\Debug\Lab09_Task01.pdb
