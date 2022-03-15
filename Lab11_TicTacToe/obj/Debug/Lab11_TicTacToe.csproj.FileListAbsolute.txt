@@ -1,0 +1,11 @@
+E:\SWE-4202-OOC-I_Lab\Lab11_TicTacToe\bin\Debug\Lab11_TicTacToe.exe.config
+E:\SWE-4202-OOC-I_Lab\Lab11_TicTacToe\bin\Debug\Lab11_TicTacToe.exe
+E:\SWE-4202-OOC-I_Lab\Lab11_TicTacToe\bin\Debug\Lab11_TicTacToe.pdb
+E:\SWE-4202-OOC-I_Lab\Lab11_TicTacToe\obj\Debug\Lab11_TicTacToe.csproj.AssemblyReference.cache
+E:\SWE-4202-OOC-I_Lab\Lab11_TicTacToe\obj\Debug\Lab11_TicTacToe.csproj.SuggestedBindingRedirects.cache
+E:\SWE-4202-OOC-I_Lab\Lab11_TicTacToe\obj\Debug\Lab11_TicTacToe.Form1.resources
+E:\SWE-4202-OOC-I_Lab\Lab11_TicTacToe\obj\Debug\Lab11_TicTacToe.Properties.Resources.resources
+E:\SWE-4202-OOC-I_Lab\Lab11_TicTacToe\obj\Debug\Lab11_TicTacToe.csproj.GenerateResource.cache
+E:\SWE-4202-OOC-I_Lab\Lab11_TicTacToe\obj\Debug\Lab11_TicTacToe.csproj.CoreCompileInputs.cache
+E:\SWE-4202-OOC-I_Lab\Lab11_TicTacToe\obj\Debug\Lab11_TicTacToe.exe
+E:\SWE-4202-OOC-I_Lab\Lab11_TicTacToe\obj\Debug\Lab11_TicTacToe.pdb
