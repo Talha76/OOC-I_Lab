@@ -1,0 +1,11 @@
+E:\SWE-4202-OOC-I_Lab\LabFinal\bin\Debug\LabFinal.exe.config
+E:\SWE-4202-OOC-I_Lab\LabFinal\bin\Debug\LabFinal.exe
+E:\SWE-4202-OOC-I_Lab\LabFinal\bin\Debug\LabFinal.pdb
+E:\SWE-4202-OOC-I_Lab\LabFinal\obj\Debug\LabFinal.csproj.AssemblyReference.cache
+E:\SWE-4202-OOC-I_Lab\LabFinal\obj\Debug\LabFinal.csproj.SuggestedBindingRedirects.cache
+E:\SWE-4202-OOC-I_Lab\LabFinal\obj\Debug\LabFinal.Form1.resources
+E:\SWE-4202-OOC-I_Lab\LabFinal\obj\Debug\LabFinal.Properties.Resources.resources
+E:\SWE-4202-OOC-I_Lab\LabFinal\obj\Debug\LabFinal.csproj.GenerateResource.cache
+E:\SWE-4202-OOC-I_Lab\LabFinal\obj\Debug\LabFinal.csproj.CoreCompileInputs.cache
+E:\SWE-4202-OOC-I_Lab\LabFinal\obj\Debug\LabFinal.exe
+E:\SWE-4202-OOC-I_Lab\LabFinal\obj\Debug\LabFinal.pdb
